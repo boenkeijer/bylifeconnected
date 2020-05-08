@@ -2,7 +2,7 @@
 
 <main>
 	<section>		
-		<h1>De homepagina312312321</h1>
+		<h1>De homepagina</h1>
 		<ul>
 			<li>djfdsklf</li>
 		</ul>		
