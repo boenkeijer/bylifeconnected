@@ -4,7 +4,7 @@
 
 <?php get_header(); ?>
 
-<main class="whatwedo">  
+<main class="aboutus">  
   	<section>  
     	<h1><?php the_title(); ?></h1>
     	<ul class="sub-page">
