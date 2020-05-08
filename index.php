@@ -1,9 +1,8 @@
 <?php get_header(); ?>
 
 <main>
-	<section>
-		<div class="image">Hier komt het logo.</div>
-		<h1>Binnenkort beschikbaar</h1>		
+	<section>		
+		<h1>De frontpage</h1>		
 	</section>
 </main>
 
