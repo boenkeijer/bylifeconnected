@@ -18,8 +18,8 @@
     <?php wp_head(); ?>
 </head>
 <body>   
-  <header>
-    <nav>
-      Navigation bar
-    </nav>
-  </header>
+  	<header>
+    	<nav>
+      		Navigation bar
+    	</nav>
+  	</header>
