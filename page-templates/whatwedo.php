@@ -11,7 +11,7 @@
         <li>Project 1</li>
         <li>Project 2</li>
     </ul>
-  </section>§
+  </section>
 </main>
 
 <?php get_footer(); ?>
