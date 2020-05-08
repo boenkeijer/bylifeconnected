@@ -2,7 +2,7 @@
 
 <main>
 	<section>		
-		<h1>De frontpage</h1>		
+		<h1>De homepagina</h1>		
 	</section>
 </main>
 
