@@ -45,6 +45,16 @@ Template:       Boen Design
       align-items: center;
     }
 
+    main section {
+      max-width: 600px;
+      height: auto;
+    }
+
+    main section ul.sub-page {
+      display: block;
+      padding: 0 0 0 1rem;
+    }
+
   /* ===== Sidebar ===== */     
     
   /* ===== Footer Container ===== */  

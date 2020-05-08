@@ -7,7 +7,7 @@
 <main class="whatwedo">  
   <section>  
     <h1>What we do</h1>
-    <ul>
+    <ul class="sub-page">
         <li>Project 1</li>
         <li>Project 2</li>
     </ul>
