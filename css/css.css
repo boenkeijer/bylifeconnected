@@ -50,7 +50,7 @@ Template:       Boen Design
       height: auto;
     }
 
-    main section ul.sub-page {
+    main section ul.sub-page li {
       display: block;
       padding: 0 0 0 1rem;
     }
