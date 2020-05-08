@@ -31,7 +31,7 @@ Template:       Boen Design
       width: 100vw;
       max-width: 100%;
       display: flex;
-      justify-content: center;
+      justify-content: top;
       align-items: center;
     }
 
