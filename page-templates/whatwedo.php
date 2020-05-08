@@ -6,7 +6,7 @@
 
 <main class="whatwedo">  
   <section>  
-    <h1><?php get_the_title(); ?></h1>
+    <h1><?php the_title(); ?></h1>
     <ul class="sub-page">
         <li>Project 1</li>
         <li>Project 2</li>
