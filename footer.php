@@ -1,5 +1,5 @@
       <footer>
-        <p>© Koen Beijer <span id="tijd"></span></p>
+        <p>© By Life Connected</p>
       </footer>
 
     </div> <!-- /container -->
