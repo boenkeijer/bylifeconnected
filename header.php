@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>By Life Connected</title>
+    <title>By Life Connectedd</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
