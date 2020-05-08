@@ -19,7 +19,8 @@
 </head>
 <body>   
   	<header>
+	  	<div class="logo">By Life Connected</div>
     	<nav>
-      		Navigation bar
+			<?php wp_nav_menu(); ?>
     	</nav>
   	</header>
