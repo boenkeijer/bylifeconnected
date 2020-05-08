@@ -17,4 +17,9 @@
     <![endif]-->   
     <?php wp_head(); ?>
 </head>
-<body>    
+<body>   
+  <header>
+    <nav>
+      Navigation bar
+    </nav>
+  </header>
