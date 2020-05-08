@@ -25,6 +25,12 @@ Template:       Boen Design
             
   /* ===== Header Container ===== */    
 
+    nav #menu-navigation {
+      display: flex;
+      justify-content: space-between;
+      
+    }
+
   /* ===== Main Container ===== */  
 
     main {
