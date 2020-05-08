@@ -27,10 +27,13 @@ Template:       Boen Design
 
     nav #menu-navigation {
       display: flex;
-      justify-content: space-between;
-      
+      justify-content: space-around;
     }
 
+    nav #menu-navigation ul.sub-menu li {
+      display: block;
+      padding: 0 0 0 1rem;;
+    }
   /* ===== Main Container ===== */  
 
     main {
